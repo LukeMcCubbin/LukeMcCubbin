@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LukeMcCubbin
-- Electrical and Computer Engineering Professional
+- Electrical Engineering Professional
 - Masters Thesis: Power Amplifier Distortion Migitation and Charaterization using ML/AI
 
 <!---
